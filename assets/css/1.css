@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+header {
+  background-color: red;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  height: 270px;
+}
+
+body {
+  font-size: 20px;
+}
+
+nav {
+  background-color: brown;
+  padding: 15px;
+}
+
+aside {
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+.sample-img {
+  background-color: lightblue;
+  border: 2px solid black;
+  height: 200px;
+  padding: 20px;
+}
